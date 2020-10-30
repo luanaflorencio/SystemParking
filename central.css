@@ -1,10 +1,23 @@
 th{
     color: #2288d6;
 }
-.form-control select{
-    width: 700px;
-    
-}
 .reg{
     text-align: center;
+}
+.form-control{
+    width:500px!important;
+    margin: 0 auto;
+}
+p{
+    color: #2288d6;
+}
+table{
+    width: 90%!important;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
+select{
+    margin-top: 10px!important;
 }
